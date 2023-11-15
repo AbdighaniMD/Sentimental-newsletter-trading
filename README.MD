@@ -7,10 +7,10 @@
 # About
 - Leveraging Reddit data to identify trending stocks and extract valuable insights by using openai API summary.
 
-## UML Diagram
+## Subcreation Base Email
 - Email reports to deliver the most relevant and up-to-date information about trending stock Subscribers.
 
-![UML Diagram](./asset/emailReport.jpeg)
+![Subcreation Base Email](./asset/emailReport.jpeg)
 
 
 ## Environment Variables
