@@ -1,0 +1,46 @@
+<html>
+  <head>
+    <style>
+      body {
+        max-width: 1000px;
+      }
+      @font-face {
+        font-family: 'Roboto';
+        src: url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+      }
+      table {
+        font-family: 'Roboto', sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+        border-collapse: collapse;
+        margin: 0 auto;
+      }
+      th,
+      td {
+        text-align: left;
+        padding: 8px;
+        border: 1px solid #ddd;
+        font-size: 14px;
+      }
+      th {
+        background-color: #f2f2f2;
+      }
+    </style>
+  </head>
+  <body>
+    <p>
+      Leveraging Reddit data to identify trending stocks and extract valuable insights by using openai API summary.
+    </p>
+    <br />
+    <table>
+      <tr>
+        <th>Ticker</th>
+        <th>Summary</th>
+      </tr>
+      ${table_body}
+    </table>
+    <p>
+      Here are the subreddits that we used: ${subreddits}
+    </p>
+  </body>
+</html>
