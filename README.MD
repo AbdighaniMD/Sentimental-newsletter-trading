@@ -8,7 +8,7 @@
 - Leveraging Reddit data to identify trending stocks and extract valuable insights by using openai API summary.
 
 ## Summarised Email report
-- Email reports to deliver the most relevant and up-to-date information about trending stock Subscribers.
+- Email reports to deliver the most relevant and up-to-date information about trending stocks to subscribers.
 
 ![Email](./asset/emailReport.jpg)
 
