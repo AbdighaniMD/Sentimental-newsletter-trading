@@ -7,10 +7,10 @@
 # About
 - Leveraging Reddit data to identify trending stocks and extract valuable insights by using openai API summary.
 
-## Subcreation Base Email
+## Summarised Email report
 - Email reports to deliver the most relevant and up-to-date information about trending stock Subscribers.
 
-![Subcreation Base Email](./asset/emailReport.jpeg)
+![Email](./asset/emailReport.jpg)
 
 
 ## Environment Variables
@@ -53,7 +53,7 @@ Install dependencies
   pip install -r requirement.txt
 ```
 
-Start the server
+Start the programme
 
 ```bash
   python main.py
